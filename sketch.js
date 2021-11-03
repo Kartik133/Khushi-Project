@@ -33,6 +33,6 @@ function draw() {
   text("completed satisfactorily by me.",width/2,2400);
   textSize(150);
   text("Principal sign:                                       ",width/2,2700);
-  text("Internal examinar:                                    ",width/2,3000);
-  text("External examinar:                                    ",width/2,3300);
+  text("Internal examinar:                                  ",width/2,2950);
+  text("External examinar:                                  ",width/2,3200);
 }
