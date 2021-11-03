@@ -13,7 +13,7 @@ function draw() {
   
   textAlign(CENTER);
   textFont(a);
-  textSize(20);
+  textSize(50);
   noStroke();
   fill(0);
   text("GREEN VALLEY",width/2,100);
