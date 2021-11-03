@@ -21,7 +21,7 @@ function draw() {
   text("SPECTROSCOPY",width/2,height/2+200);
   textSize(150);
   text("SUBMITTED TO:",width/2-600,height/2+1000);
-  text("SUBMITTED BY:",width/2-600,height/2+1200);
+  text("SUBMITTED BY:",width/2-600,height/2+1300);
   text("PANAKJ SIR",width/2+600,height/2+1000);
-  text("KHUSHI KHAITAN",width/2+600,height/2+1200);
+  text("KHUSHI KHAITAN",width/2+600,height/2+1300);
 }
