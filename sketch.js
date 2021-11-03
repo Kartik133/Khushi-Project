@@ -2,7 +2,7 @@ var a,b;
 
 function preload() {
   a = loadFont("ALGER.TTF");
-  b = loadFont("LHANDW,ttf");
+  b = loadFont("LHANDW.ttf");
 }
 
 function setup() {
