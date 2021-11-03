@@ -16,8 +16,8 @@ function draw() {
   textSize(200);
   noStroke();
   fill(0);
-  text("GREEN VALLEY",width/2,200);
-  text("PUBLIC SCHOOL",width/2,450);
+  text("GREEN VALLEY",width/2,300);
+  text("PUBLIC SCHOOL",width/2,550);
   text("SPECTROSCOPY",width/2,height/2+200);
   textSize(150);
   text("SUBMITTED TO:",width/2-600,height/2+1000);
