@@ -20,8 +20,8 @@ function draw() {
   text("PUBLIC SCHOOL",width/2,450);
   text("SPECTROSCOPY",width/2,height/2+200);
   textSize(150);
-  text("SUBMITTED TO:",width/2-350,height/2+1000);
-  text("SUBMITTED BY:",width/2-350,height/2+1200);
-  text("PANAKJ SIR",width/2+450,height/2+1000);
-  text("KHUSHI KHAITAN",width/2+450,height/2+1200);
+  text("SUBMITTED TO:",width/2-500,height/2+1000);
+  text("SUBMITTED BY:",width/2-500,height/2+1200);
+  text("PANAKJ SIR",width/2+600,height/2+1000);
+  text("KHUSHI KHAITAN",width/2+600,height/2+1200);
 }
