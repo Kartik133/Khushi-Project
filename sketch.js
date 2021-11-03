@@ -18,7 +18,7 @@ function draw() {
   noStroke();
   fill(0);
   text("ACKNOWLEDGEMENT",width/2,300);
-  textSize(90);
+  textSize(70);
   textFont(b);
   text("It would be my atmost pleasure to express my",width/2,550);
   text("sincere thanks to the honourable director sir Mr.",width/2,800);
