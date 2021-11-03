@@ -27,5 +27,5 @@ function draw() {
   text("KHUSHI KHAITAN",width/2+600,height/2+1300);
   
   imageMode(CENTER);
-  image(b,width/2,((height/2+200)-550)/2,500,500);
+  image(b,width/2,(((height/2+200)-550)/2)+300,700,700);
 }
