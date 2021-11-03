@@ -18,7 +18,7 @@ function draw() {
   textSize(200);
   noStroke();
   fill(0);
-  textSize(80);
+  textSize(90);
   textFont(c);
   text("CERTIFICATE",width/2,300);
   text("This is to certify that on",width/2,600);
