@@ -17,4 +17,18 @@ function draw() {
   textSize(200);
   noStroke();
   fill(0);
+  text("CERTIFICATE",width/2,);
+  text("",width/2,);
+  text("",width/2,);
+  text("",width/2,);
+  text("",width/2,);
+  text("",width/2,);
+  text("",width/2,);
+  text("",width/2,);
+  text("",width/2,);
+  text("",width/2,);
+  text("",width/2,);
+  text("",width/2,);
+  text("",width/2,);
+  text("",width/2,);
 }
