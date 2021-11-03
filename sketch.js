@@ -1,7 +1,8 @@
-var a;
+var a,b;
 
 function preload() {
   a = loadFont("ALGER.TTF");
+  b = loadImage("image-removebg-preview.png");  
 }
 
 function setup() {
