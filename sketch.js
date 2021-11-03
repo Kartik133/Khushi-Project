@@ -19,7 +19,7 @@ function draw() {
   fill(0);
   text("GREEN VALLEY",width/2,300);
   text("PUBLIC SCHOOL",width/2,550);
-  text("SPECTROSCOPY",width/2,height/2+400);
+  text("SPECTROSCOPY",width/2,height/2+425);
   textSize(150);
   text("SUBMITTED TO:",width/2-600,height/2+1000);
   text("SUBMITTED BY:",width/2-600,height/2+1300);
