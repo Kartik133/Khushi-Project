@@ -23,7 +23,7 @@ function draw() {
   text("CERTIFICATE",width/2,300);
   text("This is to certify that on",width/2,600);
   text("SPECTROSCOPY submitted by KHUSHI",width/2,800);
-  text("AGARWAL OF CLASS XII of GREENVALLEY PUBLIC",width/2,1000);
+  text("KHAITAN OF CLASS XII of GREENVALLEY PUBLIC",width/2,1000);
   text("SCHOOL submitted to Mr. PANKAJ during",width/2,1200);
   text("academic session as per guidelines issued by",width/2,1400);
   text("CBSE. All the investigation work and the",width/2,1600);
