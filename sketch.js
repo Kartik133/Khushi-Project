@@ -17,9 +17,9 @@ function draw() {
   noStroke();
   fill(0);
   text("GREEN VALLEY",width/2,200);
-  text("PUBLIC SCHOOL",width/2,350);
-  text("SPECTROSCOPY",width/2,height/2+100);
-  textSize(100);
+  text("PUBLIC SCHOOL",width/2,450);
+  text("SPECTROSCOPY",width/2,height/2+200);
+  textSize(150);
   text("SUBMITTED TO:      PANAKJ SIR",width/2,height/2+600);
-  text("SUBMITTED BY:    KHUSHI KHAITAN",width/2,height/2+700);
+  text("SUBMITTED BY:    KHUSHI KHAITAN",width/2,height/2+800);
 }
