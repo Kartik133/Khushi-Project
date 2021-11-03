@@ -31,7 +31,8 @@ function draw() {
   text("soley, sincerely and satisfactory. I certify",width/2,2000);
   text("that this project is upto my expectations and",width/2,2200);
   text("completed satisfactorily by me.",width/2,2400);
-  text("Principal sign:                                ",width/2,2600);
-  text("Internal examinar:                             ",width/2,2800);
-  text("External examinar:                             ",width/2,3000);
+  textSize(150);
+  text("Principal sign:                                       ",width/2,2700);
+  text("Internal examinar:                                    ",width/2,3000);
+  text("External examinar:                                    ",width/2,3300);
 }
