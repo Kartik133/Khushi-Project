@@ -25,4 +25,7 @@ function draw() {
   text("SUBMITTED BY:",width/2-600,height/2+1300);
   text("PANAKJ SIR",width/2+600,height/2+1000);
   text("KHUSHI KHAITAN",width/2+600,height/2+1300);
+  
+  imageMode(CENTER);
+  image(b,width/2,height/2,100,100);
 }
