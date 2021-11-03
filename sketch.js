@@ -32,7 +32,7 @@ function draw() {
   text("that this project is upto my expectations and",width/2,2200);
   text("completed satisfactorily by me.",width/2,2400);
   textSize(150);
-  text("Principal sign:                                            ",width/2,2700);
-  text("Internal examinar:                                    ",width/2,2950);
-  text("External examinar:                                   ",width/2,3200);
+  text("Principal sign:                                      ",width/2,2700);
+  text("Internal examinar:                              ",width/2,2950);
+  text("External examinar:                             ",width/2,3200);
 }
