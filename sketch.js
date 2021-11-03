@@ -17,7 +17,7 @@ function draw() {
   noStroke();
   fill(0);
   text("ACKNOWLEDGEMENT",width/2,300);
-  textSize(100);
+  textSize(90);
   text("It would be my atmost pleasure to express my",width/2,550);
   text("sincere thanks to the honourable director sir Mr.",width/2,800);
   text("G.S.BHATIYA, principal maam Mrs. RAVINDRA",width/2,1050); 
